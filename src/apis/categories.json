@@ -1,0 +1,36 @@
+{
+    "categories": [
+        {
+            "name": "work",
+            "emoji": ""
+        },
+        {
+            "name": "academic",
+            "emoji": ""
+        },
+        {
+            "name": "social",
+            "emoji": ""
+        },
+        {
+            "name": "healthcare",
+            "emoji": ""
+        },
+        {
+            "name": "spiritual",
+            "emoji": ""
+        },
+        {
+            "name": "arts",
+            "emoji": ""
+        },
+        {
+            "name": "games",
+            "emoji": ""
+        },
+        {
+            "name": "other",
+            "emoji": ""
+        }
+    ]
+}

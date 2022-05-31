@@ -10,7 +10,7 @@ export default function TaskCard({ task }) {
         <h2 className="accordion-header" id="headingOne">
           <button className="crd-header" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
             <img src={HealthIcon} alt="task-icon" className="task-icon" />
-            <h5 className="">{task.name}</h5>
+            <h5>{task.taskName}</h5>
             {task.isAPriority ? <i className="bi bi-exclamation-triangle" style={{ marginLeft: '0.5rem' }}></i>
               : null}
             <i className="bi bi-caret-down-fill"></i>
